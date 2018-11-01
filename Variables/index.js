@@ -30,7 +30,7 @@ const cars = [
     {
         category: "mobil",
         brand: "honda",
-        type: "crv"
+        type: "crv",
     } 
     // {
     //     category: 'mobil',
